@@ -1,0 +1,46 @@
+.elementor-27423 .elementor-element.elementor-element-1eb35640:not(.elementor-motion-effects-element-type-background), .elementor-27423 .elementor-element.elementor-element-1eb35640 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
+.elementor-27423 .elementor-element.elementor-element-1eb35640 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-27423 .elementor-element.elementor-element-1eb35640 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-27423 .elementor-element.elementor-element-31ce23cf {text-align: left;}
+.elementor-27423 .elementor-element.elementor-element-31ce23cf .elementor-image img {width: 246px;height: 51px;}
+.elementor-27423 .elementor-element.elementor-element-31ce23cf > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 50px 0px 0px 60px;}
+.elementor-27423 .elementor-element.elementor-element-1929def7:not(.elementor-motion-effects-element-type-background), .elementor-27423 .elementor-element.elementor-element-1929def7 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
+.elementor-27423 .elementor-element.elementor-element-1929def7 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-27423 .elementor-element.elementor-element-1929def7 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-bc-flex-widget .elementor-27423 .elementor-element.elementor-element-5dc83c8e.elementor-column .elementor-widget-wrap {align-items: flex-end;}
+.elementor-27423 .elementor-element.elementor-element-5dc83c8e.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {align-content: flex-end;align-items: flex-end;}
+.elementor-27423 .elementor-element.elementor-element-5dc83c8e > .elementor-element-populated {margin: 38px 0px 0px 0px;}
+.elementor-27423 .elementor-element.elementor-element-34c31f6e .elementor-text-editor {text-align: left;}
+.elementor-27423 .elementor-element.elementor-element-34c31f6e {color: #595959;font-size: 16px;line-height: 28px;}
+.elementor-27423 .elementor-element.elementor-element-34c31f6e > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 100px 30px 60px;}
+.elementor-bc-flex-widget .elementor-27423 .elementor-element.elementor-element-28dea038.elementor-column .elementor-widget-wrap {align-items: flex-end;}
+.elementor-27423 .elementor-element.elementor-element-28dea038.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {align-content: flex-end;align-items: flex-end;}
+.elementor-27423 .elementor-element.elementor-element-28dea038 > .elementor-element-populated {margin: 38px 0px 0px 0px;}
+.elementor-27423 .elementor-element.elementor-element-313dfd8a .elementor-text-editor {text-align: right;}
+.elementor-27423 .elementor-element.elementor-element-313dfd8a {color: #595959;font-size: 16px;line-height: 28px;}
+.elementor-27423 .elementor-element.elementor-element-313dfd8a > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 30px 0px;}
+.elementor-bc-flex-widget .elementor-27423 .elementor-element.elementor-element-7ea045b4.elementor-column .elementor-widget-wrap {align-items: flex-start;}
+.elementor-27423 .elementor-element.elementor-element-7ea045b4.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {align-content: flex-start;align-items: flex-start;}
+.elementor-27423 .elementor-element.elementor-element-7ea045b4 > .elementor-element-populated {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
+.elementor-27423 .elementor-element.elementor-element-159362f6 {text-align: left;}
+.elementor-27423 .elementor-element.elementor-element-159362f6 > .elementor-widget-container {margin: 6px 0px 0px 0px;}
+@media (min-width:768px) {.elementor-27423 .elementor-element.elementor-element-28dea038 {width: 40%;}
+	.elementor-27423 .elementor-element.elementor-element-7ea045b4 {width: 10%;}}
+@media (max-width:767px) {.elementor-27423 .elementor-element.elementor-element-31ce23cf .elementor-image img {width: 150px;height: 31px;}
+	.elementor-27423 .elementor-element.elementor-element-31ce23cf > .elementor-widget-container {margin: 0px 0px 0px -60px;}
+	.elementor-27423 .elementor-element.elementor-element-5dc83c8e {width: 45%;}
+	.elementor-bc-flex-widget .elementor-27423 .elementor-element.elementor-element-5dc83c8e.elementor-column .elementor-widget-wrap {align-items: flex-end;}
+	.elementor-27423 .elementor-element.elementor-element-5dc83c8e.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {align-content: flex-end;align-items: flex-end;}
+	.elementor-27423 .elementor-element.elementor-element-34c31f6e {font-size: 8px;line-height: 20px;}
+	.elementor-27423 .elementor-element.elementor-element-34c31f6e > .elementor-widget-container {margin: -38px -100px 0px -60px;}
+	.elementor-27423 .elementor-element.elementor-element-28dea038 {width: 45%;}
+	.elementor-bc-flex-widget .elementor-27423 .elementor-element.elementor-element-28dea038.elementor-column .elementor-widget-wrap {align-items: flex-end;}
+	.elementor-27423 .elementor-element.elementor-element-28dea038.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {align-content: flex-end;align-items: flex-end;}
+	.elementor-27423 .elementor-element.elementor-element-313dfd8a {font-size: 8px;line-height: 20px;}
+	.elementor-27423 .elementor-element.elementor-element-313dfd8a > .elementor-widget-container {margin: -28px 0px 0px 0px;}
+	.elementor-27423 .elementor-element.elementor-element-7ea045b4 {width: 10%;}
+	.elementor-bc-flex-widget .elementor-27423 .elementor-element.elementor-element-7ea045b4.elementor-column .elementor-widget-wrap {align-items: flex-end;}
+	.elementor-27423 .elementor-element.elementor-element-7ea045b4.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {align-content: flex-end;align-items: flex-end;}
+	.elementor-27423 .elementor-element.elementor-element-7ea045b4 > .elementor-element-populated {margin: 0px 0px 0px 0px;}
+	.elementor-27423 .elementor-element.elementor-element-159362f6 {text-align: right;}
+	.elementor-27423 .elementor-element.elementor-element-159362f6 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 55px 0px;}}
