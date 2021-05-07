@@ -16,7 +16,7 @@ body.rtl .elementor-27266 .elementor-element.elementor-element-3c9acaea {right: 
 .elementor-27266 .elementor-element.elementor-element-1618903b {--divider-border-style: solid;--divider-color: #dedede;--divider-border-width: .5px;}
 .elementor-27266 .elementor-element.elementor-element-1618903b .elementor-divider-separator {width: 100%;}
 .elementor-27266 .elementor-element.elementor-element-1618903b .elementor-divider {padding-top: 15px;padding-bottom: 15px;}
-.elementor-27266 .elementor-element.elementor-element-16dbddb {color: #3d3d3d;font-family: "Allan",Sans-serif;font-size: 18px;font-weight: normal;line-height: 36px;}
+.elementor-27266 .elementor-element.elementor-element-16dbddb {color: #3d3d3d;font-size: 18px;font-weight: normal;line-height: 36px;}
 .elementor-27266 .elementor-element.elementor-element-732affd:not(.elementor-motion-effects-element-type-background), .elementor-27266 .elementor-element.elementor-element-732affd > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
 .elementor-27266 .elementor-element.elementor-element-732affd {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
 .elementor-27266 .elementor-element.elementor-element-732affd > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
@@ -40,7 +40,7 @@ body.rtl .elementor-27266 .elementor-element.elementor-element-3c9acaea {right: 
 .elementor-27266 .elementor-element.elementor-element-bb7dcaf > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 30px 0px;}
 .elementor-bc-flex-widget .elementor-27266 .elementor-element.elementor-element-eabed1c.elementor-column .elementor-widget-wrap {align-items: flex-start;}
 .elementor-27266 .elementor-element.elementor-element-eabed1c.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {align-content: flex-start;align-items: flex-start;}
-.elementor-27266 .elementor-element.elementor-element-eabed1c > .elementor-element-populated {margin: 8px 0px 30px 0px;padding: 0px 0px 0px 0px;}
+.elementor-27266 .elementor-element.elementor-element-eabed1c > .elementor-element-populated {margin: -10px 0px 0px 0px;padding: 0px 0px 0px 0px;}
 .elementor-27266 .elementor-element.elementor-element-ccdf4d3 {text-align: left;}
 @media (min-width:768px) {.elementor-27266 .elementor-element.elementor-element-b587609 {width: 40%;}
 	.elementor-27266 .elementor-element.elementor-element-eabed1c {width: 10%;}}
